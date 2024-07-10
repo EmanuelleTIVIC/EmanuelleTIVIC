@@ -1,16 +1,60 @@
-## Hi there 👋
+# Olá! Eu sou Emanuelle Paulino 👋
 
-<!--
-**EmanuelleTIVIC/EmanuelleTIVIC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
+Sou Analista em Pesquisa e Inovação 💻, atualmente trabalhando na TIVIC 🏢.
 
-Here are some ideas to get you started:
+## Experiência Profissional
+### TIVIC 🏢
+**Departamento:** Pesquisa e Desenvolvimento
+**Cargo:** Analista em Pesquisa e Inovação  
+**Período:** 03/04/2024 - Presente
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Educação 🎓
+### IFBA - Instituto Federal de Educação, Ciência e Tecnologia 🏫
+**Curso:** Bacharelado em Engenharia Elétrica  
+**Período:** 2020 - Presente
+
+### IFBA - Instituto Federal de Educação, Ciência e Tecnologia 🏫
+**Curso:** Técnico em Eletromecânica  
+**Período:** 2016 - 2020
+
+## Grupos de Pesquisa 🔬
+### GIPAR - Grupo de Inovação e Pesquisa em Automação e Robótica 🧪
+**Instituição:** IFBA - Instituto Federal de Educação, Ciência e Tecnologia  
+**Período:** 2020 - 2023
+
+## Organizações do IEEE ⚡
+### RAS ⚙️
+**Cargo:** Presidente, Tesoureira, Webmaster, Secretária  
+**Período:** 2023 - 2024
+
+### EMBS 💡
+**Cargo:** Voluntária
+**Período:** 2024 - Presente
+
+### WIE 💡
+**Cargo:** Tesoureira
+**Período:** 2024 - Presente
+
+## Habilidades 🛠️
+- **Linguagens de Programação:** C++, Python, Micropython
+- **Ferramentas e Tecnologias:** KiCad, Eagle, Gazebo, ROS
+- **Soft Skills:** Organização, Networking, Adaptabilidade, Trabalho em Equipe
+
+## Áreas de Pesquisa 🔍
+- Prototipagem com microcontroladores 
+- Eletrônica
+- Automação
+- Robótica 
+- Data Science
+- Confecção de PCB
+- Instrumentação eletrônica
+
+## Contato 📬
+- **Email:** emanuelle@tivic.com.br
+- **GitHub:** EmanuelleTIVIC
+- **Discord:** emanuelletivic
+
+---
+
+Obrigada por visitar meu perfil!
