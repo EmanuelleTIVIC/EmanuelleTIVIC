@@ -6,7 +6,6 @@ Sou Analista em Pesquisa e Inovação 💻, atualmente trabalhando na TIVIC 🏢
 ## Experiência Profissional
 ### TIVIC 🏢
 **Departamento:** Pesquisa e Desenvolvimento
-
 **Cargo:** Analista em Pesquisa e Inovação  
 **Período:** 03/04/2024 - Presente
 
