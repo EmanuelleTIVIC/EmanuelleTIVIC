@@ -30,11 +30,11 @@ Sou Analista em Pesquisa e Inovação 💻, atualmente trabalhando na TIVIC 🏢
 
 ### EMBS 💡  
 **Cargo:** Voluntária  
-**Período:** 2024 - Presente  
+**Período:** 2024
 
 ### WIE 💡  
 **Cargo:** Tesoureira  
-**Período:** 2024 - Presente  
+**Período:** 2024
 
 ## Habilidades 🛠️
 - **Linguagens de Programação:** C++, Python, Micropython  
